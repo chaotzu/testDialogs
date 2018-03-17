@@ -1,0 +1,4 @@
+#Fri Mar 16 19:31:06 CST 2018
+base.0=/Users/Infraestructura/Documents/workspace-cordova/testDialogs/platforms/android/app/build/intermediates/transforms/dexMerger/debug/8
+renamed.0=classes.dex
+file.0=/Users/Infraestructura/Documents/workspace-cordova/testDialogs/platforms/android/app/build/intermediates/transforms/dexMerger/debug/8/classes.dex
